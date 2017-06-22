@@ -20,3 +20,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 }
 
+//Icon made by DinoSoftLabs from www.flaticon.com
